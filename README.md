@@ -4,3 +4,5 @@ This is a specific implementaion of [Deep Q-Network (DQN)](https://www.nature.co
 The added features are:
 * The training of neural network and the experience collection are placed on *two seperate threads*.
 * The cart-pole environment is *non-stationary*.
+
+The implementation is based on [this tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb).
